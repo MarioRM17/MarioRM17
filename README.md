@@ -3,6 +3,8 @@
 
 ## Hi there 👋
 
+20 y/o
+Spain
 <!--
 **MarioRM17/MarioRM17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
